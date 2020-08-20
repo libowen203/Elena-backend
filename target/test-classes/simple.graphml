@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+	<key id="d25" for="edge" attr.name="area" attr.type="string" />
+	<key id="d24" for="edge" attr.name="width" attr.type="string" />
+	<key id="d23" for="edge" attr.name="junction" attr.type="string" />
+	<key id="d22" for="edge" attr.name="tunnel" attr.type="string" />
+	<key id="d21" for="edge" attr.name="bridge" attr.type="string" />
+	<key id="d20" for="edge" attr.name="access" attr.type="string" />
+	<key id="d19" for="edge" attr.name="ref" attr.type="string" />
+	<key id="d18" for="edge" attr.name="lanes" attr.type="string" />
+	<key id="d17" for="edge" attr.name="service" attr.type="string" />
+	<key id="d16" for="edge" attr.name="geometry" attr.type="string" />
+	<key id="d15" for="edge" attr.name="length" attr.type="string" />
+	<key id="d14" for="edge" attr.name="oneway" attr.type="string" />
+	<key id="d13" for="edge" attr.name="maxspeed" attr.type="string" />
+	<key id="d12" for="edge" attr.name="highway" attr.type="string" />
+	<key id="d11" for="edge" attr.name="name" attr.type="string" />
+	<key id="d10" for="edge" attr.name="osmid" attr.type="string" />
+	<key id="d9" for="node" attr.name="ref" attr.type="string" />
+	<key id="d8" for="node" attr.name="highway" attr.type="string" />
+	<key id="d7" for="node" attr.name="ycoord" attr.type="double" />
+	<key id="d6" for="node" attr.name="xcoord" attr.type="double" />
+	<key id="d5" for="node" attr.name="geometry" attr.type="string" />
+	<key id="d4" for="node" attr.name="lat" attr.type="string" />
+	<key id="d3" for="node" attr.name="lon" attr.type="string" />
+	<key id="d2" for="node" attr.name="osmid" attr.type="string" />
+	<key id="d1" for="node" attr.name="x" attr.type="string" />
+	<key id="d0" for="node" attr.name="y" attr.type="string" />
+	<graph edgedefault="directed">
+		<node id="n0">
+			<data key="d0">4191882.8433421566</data>
+      		<data key="d1">563727.7147759302</data>
+      		<data key="d2">263569409</data>
+      		<data key="d3">-122.2754102</data>
+      		<data key="d4">37.8721996</data>
+      		<data key="d5">POINT (563727.7147759302 4191882.843342157)</data>
+      		<data key="d6">563727.7147759302</data>
+      		<data key="d7">4191882.8433421566</data>
+		</node>
+		<node id="n1">
+			<data key="d0">4191595.432449817</data>
+		    <data key="d1">562616.7227676082</data>
+		    <data key="d2">53116955</data>
+		    <data key="d3">-122.2880663</data>
+		    <data key="d4">37.8696864</data>
+		    <data key="d5">POINT (562616.7227676082 4191595.432449817)</data>
+		    <data key="d6">562616.7227676082</data>
+		    <data key="d7">4191595.432449817</data>
+		</node>
+		<node id="n2">
+			<data key="d0">4191595.432449817</data>
+		    <data key="d1">562616.7227676082</data>
+		    <data key="d2">53116955</data>
+		    <data key="d3">-122.2880663</data>
+		    <data key="d4">37.8696864</data>
+		    <data key="d5">POINT (562616.7227676082 4191595.432449817)</data>
+		    <data key="d6">562616.7227676082</data>
+		    <data key="d7">4191595.432449817</data>
+		</node>
+		<node id="n3">
+			<data key="d0">4191595.432449817</data>
+		    <data key="d1">562616.7227676082</data>
+		    <data key="d2">53116955</data>
+		    <data key="d3">-122.2880663</data>
+		    <data key="d4">37.8696864</data>
+		    <data key="d5">POINT (562616.7227676082 4191595.432449817)</data>
+		    <data key="d6">562616.7227676082</data>
+		    <data key="d7">4191595.432449817</data>
+		</node>
+		<node id="n4">
+			<data key="d0">4191595.432449817</data>
+		    <data key="d1">562616.7227676082</data>
+		    <data key="d2">53116955</data>
+		    <data key="d3">-122.2880663</data>
+		    <data key="d4">37.8696864</data>
+		    <data key="d5">POINT (562616.7227676082 4191595.432449817)</data>
+		    <data key="d6">562616.7227676082</data>
+		    <data key="d7">4191595.432449817</data>
+		</node>
+		<node id="n5">
+			<data key="d0">4191595.432449817</data>
+		    <data key="d1">562616.7227676082</data>
+		    <data key="d2">53116955</data>
+		    <data key="d3">-122.2880663</data>
+		    <data key="d4">37.8696864</data>
+		    <data key="d5">POINT (562616.7227676082 4191595.432449817)</data>
+		    <data key="d6">562616.7227676082</data>
+		    <data key="d7">4191595.432449817</data>
+		</node>
+		<edge source="n0" target="n1" id="e0">
+			<data key="d15">1</data>
+		</edge>
+		<edge source="n1" target="n2" id="e1">
+			<data key="d15">1</data>
+		</edge>
+		<edge source="n2" target="n3" id="e2">
+			<data key="d15">1</data>
+		</edge>
+		<edge source="n1" target="n4" id="e3">
+			<data key="d15">1</data>
+		</edge>
+		<edge source="n4" target="n3" id="e4">
+			<data key="d15">3</data>
+		</edge>
+		<edge source="n2" target="n5" id="e5">
+			<data key="d15">1</data>
+		</edge>
+		<edge source="n5" target="n3" id="e6">
+			<data key="d15">1</data>
+		</edge>
+</graph>
+</graphml>

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: routing.RouterTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.996 s <<< FAILURE! - in routing.RouterTest
+dijkstraTest  Time elapsed: 0.967 s  <<< ERROR!
+java.lang.NoSuchMethodError: 'void com.elena.elena.routing.YenRouter.<init>(int, com.elena.elena.routing.Algorithm)'
+	at routing.RouterTest.setUp(RouterTest.java:37)
+
+yenTest  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.NoSuchMethodError: 'void com.elena.elena.routing.YenRouter.<init>(int, com.elena.elena.routing.Algorithm)'
+	at routing.RouterTest.setUp(RouterTest.java:37)
+

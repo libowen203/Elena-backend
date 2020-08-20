@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.elena.elena.routing.RouterTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.351 s <<< FAILURE! - in com.elena.elena.routing.RouterTest
+yenTest  Time elapsed: 0.048 s  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 1
+	at com.elena.elena.routing.RouterTest.yenTest(RouterTest.java:58)
+
+yen_astar_router  Time elapsed: 0.038 s  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 1
+	at com.elena.elena.routing.RouterTest.yen_astar_router(RouterTest.java:76)
+
